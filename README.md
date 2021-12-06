@@ -9,5 +9,7 @@ Sunucu Resim ayarlama
 Sunucu Açıklama
 
  "Desc_Hint": "<color=red>saganetwork</color>",
+
  "Desc_Full": "<color=red>saganetwork</color>",
+
  "Desc_Server_List": "<color=red>saganetwork</color>", 
