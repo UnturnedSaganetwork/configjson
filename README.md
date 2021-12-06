@@ -1,4 +1,4 @@
-#Config.json ayarları
+Config.json ayarları
 
 Sunucu Resim ayarlama
 
