@@ -3,6 +3,7 @@
 Sunucu Resim ayarlama
 
 "Icon": "Resim Link",
+
 "Thumbnail": "Resim Link",
 
 Sunucu Açıklama
